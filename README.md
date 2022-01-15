@@ -2,7 +2,7 @@
 
 NSFW Bot is an open-source discord bot that has nsfw commands running with the nekobot.xyz api.
 
-# Invite TriniBot
+## Invite TriniBot
 
 Here is the bot invite link : https://discord.com/oauth2/authorize?client_id=922215087828271105&scope=bot&permissions=8
 
