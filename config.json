@@ -1,0 +1,12 @@
+{
+  "prefix": " ",
+  "token": " ",
+  "owners": ["629788826436370452"],
+  "footer": "TriniNSFW • Trinicraft#2123",
+
+  "msg": {
+    "nsfwWarn": "Tu dois utiliser cette commande dans un canal nsfw !",
+    "loading": "Chargement...",
+    "imageNotLoading": "L'image ne se charge pas ? Clique ici"
+  }
+}
